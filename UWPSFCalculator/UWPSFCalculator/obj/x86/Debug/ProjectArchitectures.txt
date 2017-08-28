@@ -1,0 +1,1 @@
+C:\Users\Vijay\Documents\Visual Studio 2017\Projects\UWPSFCalculator\UWPSFCalculator\UWPSFCalculator.csproj;x86
