@@ -1,0 +1,1 @@
+c:\users\vijay\documents\visual studio 2017\Projects\UWPSFMaskEdit\UWPSFMaskEdit\UWPSFMaskEdit.csproj;x86
