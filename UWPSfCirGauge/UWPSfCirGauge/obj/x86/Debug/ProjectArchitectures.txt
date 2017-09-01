@@ -1,0 +1,1 @@
+c:\users\vijay\documents\visual studio 2017\Projects\UWPSfCirGauge\UWPSfCirGauge\UWPSfCirGauge.csproj;x86
